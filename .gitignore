@@ -32,3 +32,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Secrets and local configuration
+.env
+.env.local
+serviceAccountKey.json
+GoogleService-Info.plist
+google-services.json
+firebase_options.dart
+local.properties
